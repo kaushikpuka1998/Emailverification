@@ -1,0 +1,1 @@
+Import the datbase into phpmyadmin and then use the project
