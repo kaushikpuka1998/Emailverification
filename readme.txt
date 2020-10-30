@@ -1,1 +1,1 @@
-Import the datbase into phpmyadmin and then use the project
+Import the database into phpmyadmin and then use the project
